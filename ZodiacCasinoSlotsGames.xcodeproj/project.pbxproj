@@ -24,6 +24,7 @@
 		7E6645B82772194800AA85F9 /* ShopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6645B72772194800AA85F9 /* ShopViewController.swift */; };
 		7E6645BB27731DA100AA85F9 /* QuestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6645BA27731DA100AA85F9 /* QuestsViewController.swift */; };
 		7E6645BE27731EE100AA85F9 /* ShareTechMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E6645BD27731EE100AA85F9 /* ShareTechMono-Regular.ttf */; };
+		7E771CD727B5D56900D4722C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E771CD627B5D56900D4722C /* GoogleService-Info.plist */; };
 		7E943B9627B5C5B200B754C0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E943B9527B5C5B200B754C0 /* GoogleService-Info.plist */; };
 		7E985DA226DFAACF00FB19F6 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E985DA126DFAACF00FB19F6 /* BaseVC.swift */; };
 		7E985DA426DFF82F00FB19F6 /* AVPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E985DA326DFF82F00FB19F6 /* AVPlayerManager.swift */; };
@@ -79,6 +80,7 @@
 		7E6645B72772194800AA85F9 /* ShopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopViewController.swift; sourceTree = "<group>"; };
 		7E6645BA27731DA100AA85F9 /* QuestsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestsViewController.swift; sourceTree = "<group>"; };
 		7E6645BD27731EE100AA85F9 /* ShareTechMono-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ShareTechMono-Regular.ttf"; sourceTree = "<group>"; };
+		7E771CD627B5D56900D4722C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7E943B9527B5C5B200B754C0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7E985DA126DFAACF00FB19F6 /* BaseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
 		7E985DA326DFF82F00FB19F6 /* AVPlayerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerManager.swift; sourceTree = "<group>"; };
@@ -254,6 +256,7 @@
 				7E639CC127609BB800E6E6D9 /* Resources */,
 				7EF383FE2768F6EE008F362F /* Storyboards */,
 				7EA0341926CA6B1700665056 /* Info.plist */,
+				7E771CD627B5D56900D4722C /* GoogleService-Info.plist */,
 			);
 			path = ZodiacCasinoSlotsGames;
 			sourceTree = "<group>";
@@ -387,6 +390,7 @@
 				7ED34AE427A1619600F7DFC8 /* Domine-Bold.ttf in Resources */,
 				7EA0341326CA6B1500665056 /* Main.storyboard in Resources */,
 				7E23598127576FBF00D02E3B /* MyParticle.sks in Resources */,
+				7E771CD727B5D56900D4722C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

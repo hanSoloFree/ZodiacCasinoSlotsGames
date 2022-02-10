@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764467373047-km94kvpgpk6tj5reo7rplsoiebdq75ns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764467373047-km94kvpgpk6tj5reo7rplsoiebdq75ns</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3gIzUYPVojIDw66T-TyADtCzy-LurOrY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764467373047</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vladimir.svarovski.zodiac.slots</string>
+	<key>PROJECT_ID</key>
+	<string>zodiaccasinoslotsgames</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zodiaccasinoslotsgames.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764467373047:ios:5cb78869e3d7422ee204f2</string>
+</dict>
+</plist>
