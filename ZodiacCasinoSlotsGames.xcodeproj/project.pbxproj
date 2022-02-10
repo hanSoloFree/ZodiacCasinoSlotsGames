@@ -25,7 +25,6 @@
 		7E6645BB27731DA100AA85F9 /* QuestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6645BA27731DA100AA85F9 /* QuestsViewController.swift */; };
 		7E6645BE27731EE100AA85F9 /* ShareTechMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E6645BD27731EE100AA85F9 /* ShareTechMono-Regular.ttf */; };
 		7E771CD727B5D56900D4722C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E771CD627B5D56900D4722C /* GoogleService-Info.plist */; };
-		7E943B9627B5C5B200B754C0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E943B9527B5C5B200B754C0 /* GoogleService-Info.plist */; };
 		7E985DA226DFAACF00FB19F6 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E985DA126DFAACF00FB19F6 /* BaseVC.swift */; };
 		7E985DA426DFF82F00FB19F6 /* AVPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E985DA326DFF82F00FB19F6 /* AVPlayerManager.swift */; };
 		7E985DA826DFFF9E00FB19F6 /* JWL_AmbiGeneral.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7E985DA726DFFF9E00FB19F6 /* JWL_AmbiGeneral.wav */; };
@@ -377,7 +376,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E943B9627B5C5B200B754C0 /* GoogleService-Info.plist in Resources */,
 				7E659F7B277DE66700DA6DB7 /* spinSound.wav in Resources */,
 				7EA0341826CA6B1700665056 /* LaunchScreen.storyboard in Resources */,
 				7E23598327576FC200D02E3B /* spark.sks in Resources */,
